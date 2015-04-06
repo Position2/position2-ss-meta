@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+	<fields name="ogptag">
+		<fieldset name="ogptag" label="PLG_CONTENT_OGPTAG_SLIDER_LABEL">
+			<field
+				name="ogplocale"
+				type="text"
+				id="ogplocale"
+				description="PLG_CONTENT_OGPTAG_FIELD_OGPLOCALE_DESC"
+				label="PLG_CONTENT_OGPTAG_FIELD_OGPLOCALE_LABEL"
+				message="PLG_CONTENT_OGPTAG_FIELD_OGPLOCALE_MESSAGE"
+				size="30"
+			/>
+			<field
+				name="ogpsitename"
+				type="text"
+				id="ogpsitename"
+				description="PLG_CONTENT_OGPTAG_FIELD_OGPSITENAME_DESC"
+				label="PLG_CONTENT_OGPTAG_FIELD_OGPSITENAME_LABEL"
+				message="PLG_CONTENT_OGPTAG_FIELD_OGPSITENAME_MESSAGE"
+				size="30"
+			/>
+			<field
+				name="ogptitle"
+				type="text"
+				id="ogptitle"
+				description="PLG_CONTENT_OGPTAG_FIELD_OGPTITLE_DESC"
+				label="PLG_CONTENT_OGPTAG_FIELD_OGPTITLE_LABEL"
+				message="PLG_CONTENT_OGPTAG_FIELD_OGPTITLE_MESSAGE"
+				size="30"
+			/>
+			<field
+				name="ogpurl"
+				type="text"
+				id="ogpurl"
+				description="PLG_CONTENT_OGPTAG_FIELD_OGPURL_DESC"
+				label="PLG_CONTENT_OGPTAG_FIELD_OGPURL_LABEL"
+				message="PLG_CONTENT_OGPTAG_FIELD_OGPURL_MESSAGE"
+				size="30"
+			/>
+			<field
+				name="ogptype"
+				type="text"
+				id="ogptype"
+				description="PLG_CONTENT_OGPTAG_FIELD_OGPTYPE_DESC"
+				label="PLG_CONTENT_OGPTAG_FIELD_OGPTYPE_LABEL"
+				message="PLG_CONTENT_OGPTAG_FIELD_OGPTYPE_MESSAGE"
+				size="30"
+			/>
+			<field
+				name="ogpdescription"
+				type="textarea"
+				id="ogpdescription"
+				description="PLG_CONTENT_OGPTAG_FIELD_OGPDESCRIPTION_DESC"
+				label="PLG_CONTENT_OGPTAG_FIELD_OGPDESCRIPTION_LABEL"
+				message="PLG_CONTENT_OGPTAG_FIELD_OGPDESCRIPTION_MESSAGE"
+				rows="3"
+				cols="30"
+			/>
+			<field
+				name="ogpimage"
+				type="media"
+				id="ogpimage"
+				description="PLG_CONTENT_OGPTAG_FIELD_OGPIMAGE_DESC"
+				label="PLG_CONTENT_OGPTAG_FIELD_OGPIMAGE_LABEL"
+				message="PLG_CONTENT_OGPTAG_FIELD_OGPIMAGE_MESSAGE"
+				size="30"
+			/>
+
+		</fieldset>
+	</fields>
+</form>
